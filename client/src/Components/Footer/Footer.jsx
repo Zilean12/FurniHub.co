@@ -1,6 +1,5 @@
 import { FaInstagram, FaFacebook, FaLinkedin } from 'react-icons/fa';
 import FOOTER_LINKS from '../Assets/footer_links';
-import FOOTER_CONTACT_INFO from '../Assets/footer_contact';
 
 // Import the logo image using require
 import Logo from '../Assets/furniHub.co.png';
