@@ -24,7 +24,7 @@ const Footer = () => {
                   <ul className="text-gray-600 dark:text-gray-400">
                     {col.links.map((link, i) => (
                       <li key={i} className="mb-2">
-                        <a href="/" className="hover:text-blue-600 transition-colors duration-300">{link}</a>
+                        <a href="/" className="hover:text-blue-600 transition-colors duration-300">Home</a>
                       </li>
                     ))}
                   </ul>
